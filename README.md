@@ -90,6 +90,4 @@ HUJI-BGU Workshop in Arithmetic <BR>
 <li> <A HREF="HBWA2.html">HUJI-BGU 2 -- L-functions for GL(1) and regulators</A><BR> 
 <li> <A HREF="HBWA.html">HUJI-BGU 3 -- Arithmetic geometery of locally symmetric spaces</A><BR>
 <li> <A HREF="HBWA4.html">HUJI-BGU 4 -- Research talks </A><BR> 
-<li> <A HREF="HBWA.html"> HBWA 5, June 27, in Jerusalem.</A><BR> 
-
-</html>
+<li> <A HREF="HBWA.html"> HUJI-BGU 5, June 27, in Jerusalem.</A><BR> 
