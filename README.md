@@ -1,7 +1,3 @@
-# arishnidman.github.io
-Ari Shnidman's website
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
@@ -25,13 +21,7 @@ Ari Shnidman's website
   
 <H1>Ari Shnidman</H1>
 
-<!--<b>Disambiguation</b>: My full name is Ariel Shnidman.<BR><BR>-->
-
-Associate professor in mathematics at the <A HREF="https://mathematics.huji.ac.il/"> Hebrew University of Jerusalem</A>.<BR>
-For the 2024/25 academic year I am a member of the Institute for Advanced Study in Princeton. <BR>
-
-
-
+Associate professor in Mathematics at  <A HREF="https://cst.temple.edu/department-mathematics"> Temple University </A>.<BR>
 
 <H2>
 Address:<BR>
