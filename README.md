@@ -59,7 +59,7 @@ Papers <BR>
 <li> <A HREF="orbits5.pdf">Grand orbits of integer polynomials</A>, with <A HREF="http://www.math.lsa.umich.edu/~zieve/">M. Zieve</A> (appendix with B. Seward). <BR>
 
   <H2>
-    Conferences: <BR>
+    Conferences co-organized: <BR>
   </H2>
 <li> <A HREF="http://math.huji.ac.il/~shnidman/NumberTheoryDay2024"> Number Theory and Arithmetic, Jerusalem 2024</A><BR>
   <li> <A HREF="https://icerm.brown.edu/program/topical_workshop/tw-25-apc"> Algebraic Points on Curves, ICERM, Providence, June 2025</A> <BR>
