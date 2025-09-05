@@ -11,13 +11,15 @@ I'm an associate professor in mathematics at  <A HREF="https://cst.temple.edu/de
 This site is under construction; some links may not work. <BR>
 <BR>
 
-Address:<BR>
+<b>Email</b>: ari.shnidman (at) gmail.com <BR>
+
+
+<b>Address</b>:<BR>
 608 Wachman Hall <BR>
 Department of Mathematics <BR>
 1805 North Broad Street <BR>
 Philadelphia, PA 19122 <BR>
 <BR>
-<b>Email</b>: ari.shnidman (at) gmail.com <BR>
 <H2>
 Research <BR>
 </H2>
