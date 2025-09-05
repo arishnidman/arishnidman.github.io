@@ -9,6 +9,7 @@
 <H1>Ari Shnidman</H1>
 
 Associate professor in Mathematics at  <A HREF="https://cst.temple.edu/department-mathematics"> Temple University </A>.<BR>
+This site is under construction <BR>
 
 <H2>
 Address:<BR>
