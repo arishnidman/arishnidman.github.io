@@ -113,27 +113,4 @@ HUJI-BGU Workshop in Arithmetic <BR>
 <li> <A HREF="HBWA4.html">HUJI-BGU 4 -- Research talks </A><BR> 
 <li> <A HREF="HBWA.html"> HBWA 5, June 27, in Jerusalem.</A><BR> 
 
-  
-<H2>
-  Funding: <BR>
-</span><span style="font-family: Arial;"><br>
-<br>
-<br>
-</span><img style="width: 192px; height: 192px;" src="ERC.jpeg" alt="ERCLOGO"><img style="width: 177px; height: 177px;" src="ISF.jpeg" alt="ISFLOGO"><br style="font-family: Arial;">
-</p> 
-
 </html>
-
-
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-57615352-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
