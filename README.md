@@ -23,6 +23,12 @@ Research <BR>
 My research interests are in number theory, especially arithmetic geometry, special values of <i>L</i>-functions, and arithmetic statistics.
 
 <H2>
+ Teaching <BR>
+</H2>
+
+In Spring 2026, I'm teaching 8012: Abstract Algebra II (Graduate)
+
+<H2>
 Papers <BR>
 </H2>
 <li><A HREF="https://arxiv.org/abs/2506.13749">Hecke reciprocity and class groups</A>, with A. Siad, preprint. <BR>
