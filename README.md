@@ -4,7 +4,7 @@
 <p class="p1">
 <p>
 
- <IMG SRC="TempleTpic.jpeg" width="340" height="370" alt = "ari shnidman" ALIGN="RIGHT">
+ <IMG SRC="TempleTpic.jpeg" width="300" height="350" alt = "ari shnidman" ALIGN="RIGHT">
   
 <H1>Ari Shnidman</H1>
 
