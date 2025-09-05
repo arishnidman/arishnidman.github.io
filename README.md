@@ -6,13 +6,13 @@
 
  <IMG SRC="HandOnT.jpeg" width="350" height="450" alt = "ari shnidman" ALIGN="RIGHT">
   
-Welcome to Ari Shnidman's website! <BR> 
-I'm an associate professor in mathematics at  <A HREF="https://cst.temple.edu/department-mathematics"> Temple University </A> in Philadelphia.<BR>
+Welcome! I'm an associate professor in mathematics at  <A HREF="https://cst.temple.edu/department-mathematics"> Temple University </A> in Philadelphia.<BR>
 This site is under construction; some links may not work. <BR>
 <BR>
 
 <b>Email</b>: ari.shnidman (at) gmail.com <BR>
 
+<BR>
 
 <b>Address</b>:<BR>
 608 Wachman Hall <BR>
