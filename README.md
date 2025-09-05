@@ -54,7 +54,7 @@ Papers <BR>
 <li> <A HREF = "https://arxiv.org/abs/1709.09790">Three-isogeny selmer groups and ranks of abelian varieties in quadratic twist families over a number field</A>, with M. Bhargava, Z. Klagsbrun, and <A HREF="http://math.tufts.edu/faculty/rlemkeoliver/">R. Lemke Oliver</A>, <i>Duke Math Journal</i>.<BR>
 <li> <A HREF="https://arxiv.org/abs/1608.01390">Extensions of CM elliptic curves and orbit counting on the projective line</A>, with J. Rosen, <i>Research in Number Theory</i>.<BR>
 <li> <A HREF="http://arxiv.org/abs/1407.0785"><i>p</i>-adic heights of generalized Heegner cycles</A>, <i>Annales de l'Institute Fourier</i>.<BR>
-<li> <A HREF="http://arxiv.org/abs/1402.2233">N&eacuteron-Severi groups of product abelian surfaces</A>, with <A HREF="https://sites.google.com/site/julianrosen/">J. Rosen</A>. <BR>
+<li> <A HREF="http://arxiv.org/abs/1402.2233">Neron-Severi groups of product abelian surfaces</A>, with <A HREF="https://sites.google.com/site/julianrosen/">J. Rosen</A>. <BR>
 <li> <A HREF="thesis.pdf">Heights of generalized Heegner cycles</A>, Ph.D. thesis, University of Michigan.<BR>
 <li> <A HREF="http://arxiv.org/abs/1206.4746">On the number of cubic orders of bounded discriminant having automorphism group C3, and related problems</A>, with M. Bhargava,<i> Algebra & Number Theory</i>.<BR>
 <li> <A HREF="orbits5.pdf">Grand orbits of integer polynomials</A>, with <A HREF="http://www.math.lsa.umich.edu/~zieve/">M. Zieve</A> (appendix with B. Seward). <BR>
