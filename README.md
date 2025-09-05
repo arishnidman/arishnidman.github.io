@@ -27,7 +27,7 @@ My research interests are in number theory, especially arithmetic geometry, spec
  Teaching <BR>
 </H2>
 
-In Spring 2026, I'm teaching 8012: Abstract Algebra II (Graduate)
+In Spring 2026, I'm teaching MATH 8012: Abstract Algebra II (Graduate)
 
 <H2>
 Papers <BR>
