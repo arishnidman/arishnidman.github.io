@@ -1,18 +1,6 @@
 <html>
 <head>
-<!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57615352-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-57615352-1');
-</script>
-<meta name="keywords" content="ari shnidman, ariel shnidman, math, mathematics, umich"/>
-<title>Ari Shnidman</title> 
-
-</head>
 <body bgcolor="#FFFFFF">
 <p class="p1">
 <p>
@@ -26,10 +14,11 @@ Associate professor in Mathematics at  <A HREF="https://cst.temple.edu/departmen
 <H2>
 Address:<BR>
 </H2>
-Institute for Advanced Study <BR>
-1 Einstein Dr <BR>
+608 Wachman Hall <BR>
+Department of Mathematics <BR>
+1805 North Broad Street <BR>
+Philadelphia, PA 19122 <BR>
 <BR>
-<b>Office</b>: Fuld 420 <BR>
 <b>Email</b>: ari.shnidman (at) gmail.com <BR>
 <H2>
 Research <BR>
