@@ -7,7 +7,8 @@
  <IMG SRC="HandOnT.jpeg" width="350" height="450" alt = "ari shnidman" ALIGN="RIGHT">
   
 Welcome! <BR>
-I'm an associate professor in mathematics at  <A HREF="https://cst.temple.edu/department-mathematics"> Temple University </A> in Philadelphia. Warning: some links below may not work while this site is under construction. <BR>
+I'm an associate professor in mathematics at  <A HREF="https://cst.temple.edu/department-mathematics"> Temple University </A> in Philadelphia.<BR>
+Warning: some links below may not work while this site is under construction. <BR>
 
 <b>Email</b>: ari.shnidman (at) gmail.com <BR>
 
