@@ -64,9 +64,8 @@ Papers <BR>
 <li> <A HREF="http://math.huji.ac.il/~shnidman/NumberTheoryDay2024"> Number Theory and Arithmetic, Jerusalem 2024</A><BR>
   <li> <A HREF="https://icerm.brown.edu/program/topical_workshop/tw-25-apc"> Algebraic Points on Curves, ICERM, Providence, June 2025</A> <BR>
 
-    <H2>
-      Slides: <BR>
-    </H2>
+<H2> Slides: <BR> </H2>
+    
     <li> <A HREF="SumsOfTwoCubes.pdf"> Sums of two rational cubes: ICTS workshop </A> (Aug 2022). <BR>
     <li> <A HREF="Vantage.pdf"> Vanishing of Ceresa cycles: vANtAGe seminar </A> (Aug 2024).<BR> 
     <li> <A HREF="OberwolfachCeresa.pdf"> Ceresa cycles: Explicit methods in number theory </A> (Sep 2024).<BR> 
