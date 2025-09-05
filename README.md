@@ -6,8 +6,6 @@
 
  <IMG SRC="HandOnT.jpeg" width="350" height="450" alt = "ari shnidman" ALIGN="RIGHT">
   
-<H1>Ari Shnidman</H1>
-
 Associate professor in Mathematics at  <A HREF="https://cst.temple.edu/department-mathematics"> Temple University </A>.<BR>
 This site is under construction <BR>
 
