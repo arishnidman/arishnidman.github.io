@@ -9,6 +9,7 @@
 Welcome to Ari Shnidman's website! <BR> 
 I'm an associate professor in mathematics at  <A HREF="https://cst.temple.edu/department-mathematics"> Temple University </A> in Philadelphia.<BR>
 This site is under construction; some links may not work. <BR>
+<BR>
 
 Address:<BR>
 608 Wachman Hall <BR>
