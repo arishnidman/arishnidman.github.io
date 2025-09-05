@@ -7,7 +7,7 @@
  <IMG SRC="HandOnT.jpeg" width="350" height="450" alt = "ari shnidman" ALIGN="RIGHT">
   
 Welcome to Ari Shnidman's website. I'm an associate professor in mathematics at  <A HREF="https://cst.temple.edu/department-mathematics"> Temple University </A>.<BR>
-This site is under construction <BR>
+Beware, this site is under construction <BR>
 
 <H2>
 Address:<BR>
