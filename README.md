@@ -40,7 +40,7 @@ Papers <BR>
 <li> <A HREF="https://arxiv.org/abs/2501.18774">Rank stability in quadratic extensions and Hilbert's tenth problem for the ring of integers of a number field</A>, with L. Alpoge, M. Bhargava, and W. Ho, <i> submitted</i>. <BR>
 <li> <A HREF="https://arxiv.org/abs/2406.03891">Vanishing criteria for Ceresa cycles</A>, with J. Laga, to appear in <i>Compositio Mathematica</i>. <BR>
 <li> <A HREF="https://arxiv.org/abs/2408.04375">Derivatives of Rankin-Selberg <i>L</i>-functions and heights of generalized Heegner cycles </A>, with D. Lilienfeldt, <i>submitted</i>. <BR> 
-<li> <A HREF="CeresaBPC.pdf">Ceresa cycles of bielliptic Picard curves</A>, with J. Laga, <i>J. Reine Angew. Math</i>. <BR>
+<li> <A HREF="https://arxiv.org/abs/2312.12965">Ceresa cycles of bielliptic Picard curves</A>, with J. Laga, <i>J. Reine Angew. Math</i>. <BR>
 <li> <A HREF="https://arxiv.org/abs/2308.15193">Rational torsion points on abelian surfaces with quaternionic multiplication</A>, with J. Laga, C. Schembri, and J. Voight, <i>Forum of Mathematics, Sigma</i>.<BR>
 <li> <A HREF="https://arxiv.org/abs/2308.15297">The geometry and arithmetic of bielliptic Picard curves</A>, with J. Laga, <i>submitted</i>. <BR>
 <li> <A HREF="https://arxiv.org/abs/2305.15874">Normal distribution of bad reduction</A>, with R. Lemke Oliver and D. Loughran, <i>Ramanujan Journal</i>. <BR>
