@@ -58,7 +58,7 @@ Papers <BR>
 <li> <A HREF = "https://arxiv.org/abs/1904.00116">Elements of given order in Tate-Shafarevich groups of abelian varieties in quadratic twist families</A>, with M. Bhargava, Z. Klagsbrun, and R. Lemke Oliver, <i>Algebra & Number Theory</i>.<BR>
 <li> <A HREF="SubmissionIMRNstyleRevision.pdf">Quadratic twists of abelian varieties with real multiplication</A>, <i>IMRN</i>.<BR>
 <li> <A HREF = "https://arxiv.org/abs/1707.00213">A Gross-Kohnen-Zagier formula for Heegner-Drinfeld cycles</A>, with <A HREF="https://www2.bc.edu/benjamin-howard/">B. Howard</A>, <i>Advances in Mathematics</i>.<BR>
-<li> <A HREF = "JLMSv1.pdf">The average size of the 3-isogeny Selmer groups of elliptic curves <i>y<SUP>2</SUP> = x<SUP>3</SUP> + k</i></A>, with M. Bhargava and <A HREF="http://www.math.harvard.edu/~elkies/">N. Elkies</A>, <i>Journal of the LMS</i>.<BR>
+<li> <A HREF = "j=0fixedtypos.pdf">The average size of the 3-isogeny Selmer groups of elliptic curves <i>y<SUP>2</SUP> = x<SUP>3</SUP> + k</i></A>, with M. Bhargava and <A HREF="http://www.math.harvard.edu/~elkies/">N. Elkies</A>, <i>Journal of the LMS</i>.<BR>
 <li> <A HREF="https://arxiv.org/abs/1701.03744">Grothendieck groups of categories of abelian varieties</A>, <i>European Journal of Mathematics</i>.<BR>
 <li> <A HREF = "https://arxiv.org/abs/1709.09790">Three-isogeny selmer groups and ranks of abelian varieties in quadratic twist families over a number field</A>, with M. Bhargava, Z. Klagsbrun, and <A HREF="http://math.tufts.edu/faculty/rlemkeoliver/">R. Lemke Oliver</A>, <i>Duke Math Journal</i>.<BR>
 <li> <A HREF="https://arxiv.org/abs/1608.01390">Extensions of CM elliptic curves and orbit counting on the projective line</A>, with J. Rosen, <i>Research in Number Theory</i>.<BR>
