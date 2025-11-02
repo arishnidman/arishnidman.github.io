@@ -56,7 +56,7 @@ Papers <BR>
 <li> <A HREF = "https://arxiv.org/abs/2102.04319"> Genus two curves with full &#8730; 3 level structure</A>, with N. Bruin and E.V. Flynn, <i>Selecta Mathematica</i>. <A HREF="BFScode.sage">(sage code)</A><BR>
 <li><A HREF = "https://arxiv.org/abs/2011.01186">A positive proportion of cubic fields are not monogenic yet have no local obstruction to being so</A>, with L. Alpoge and M. Bhargava, <i>Mathematische Annalen</i>.<BR>
 <li> <A HREF = "https://arxiv.org/abs/1904.00116">Elements of given order in Tate-Shafarevich groups of abelian varieties in quadratic twist families</A>, with M. Bhargava, Z. Klagsbrun, and R. Lemke Oliver, <i>Algebra & Number Theory</i>.<BR>
-<li> <A HREF="RMSelmerv8.pdf">Quadratic twists of abelian varieties with real multiplication</A>, <i>IMRN</i>.<BR>
+<li> <A HREF="SubmissionIMRNstyleRevision.pdf">Quadratic twists of abelian varieties with real multiplication</A>, <i>IMRN</i>.<BR>
 <li> <A HREF = "https://arxiv.org/abs/1707.00213">A Gross-Kohnen-Zagier formula for Heegner-Drinfeld cycles</A>, with <A HREF="https://www2.bc.edu/benjamin-howard/">B. Howard</A>, <i>Advances in Mathematics</i>.<BR>
 <li> <A HREF = "j=0fixedtypos.pdf">The average size of the 3-isogeny Selmer groups of elliptic curves <i>y<SUP>2</SUP> = x<SUP>3</SUP> + k</i></A>, with M. Bhargava and <A HREF="http://www.math.harvard.edu/~elkies/">N. Elkies</A>, <i>Journal of the LMS</i>.<BR>
 <li> <A HREF="GrothFinal.pdf">Grothendieck groups of categories of abelian varieties</A>, <i>European Journal of Mathematics</i>.<BR>
