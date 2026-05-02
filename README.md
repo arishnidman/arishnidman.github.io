@@ -80,6 +80,8 @@ Papers <BR>
     <li> <A HREF="SumsOfTwoCubes.pdf"> Sums of two rational cubes: ICTS workshop </A> (Aug 2022). <BR>
     <li> <A HREF="Vantage.pdf"> Vanishing of Ceresa cycles: vANtAGe seminar </A> (Aug 2024).<BR> 
     <li> <A HREF="OberwolfachCeresa.pdf"> Ceresa cycles: Explicit methods in number theory </A> (Sep 2024).<BR> 
+    <li> <A HREF="NTWS2026.pdf"> Vanishing and non-vanishing of Ceresa cycles </A> (Apr 2026).<BR> 
+   
 <H2>
  Seminars: <BR> 
 </H2>
