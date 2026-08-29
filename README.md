@@ -36,14 +36,14 @@ In Spring 2026, I'm teaching MATH 8012: Abstract Algebra II (Graduate)
 <H2>
 Papers <BR>
 </H2>
-<li><A HREF="https://arxiv.org/abs/2602.20964">Rational points on modular curves: parameterization and geometric explanations</A>, with M. Derickx, S. Hashimoto, and F. Najman, preprint. <BR>
+<li><A HREF="https://arxiv.org/abs/2602.20964">Rational points on modular curves: parameterization and geometric explanations</A>, with M. Derickx, S. Hashimoto, and F. Najman, <i>submitted</i>. <BR>
 <li><A HREF="https://arxiv.org/abs/2506.13749">Hecke reciprocity and class groups</A>, with A. Siad, preprint. <BR>
 <li> <A HREF="https://arxiv.org/abs/2501.18774">Rank stability in quadratic extensions and Hilbert's tenth problem for the ring of integers of a number field</A>, with L. Alpoge, M. Bhargava, and W. Ho, <i>Inventiones mathematicae</i>. <BR>
 <li> <A HREF="https://arxiv.org/abs/2406.03891">Vanishing criteria for Ceresa cycles</A>, with J. Laga, <i>Compositio Mathematica</i>. <BR>
 <li> <A HREF="https://arxiv.org/abs/2408.04375">Derivatives of Rankin-Selberg <i>L</i>-functions and heights of generalized Heegner cycles </A>, with D. Lilienfeldt, <i>submitted</i>. <BR> 
 <li> <A HREF="https://arxiv.org/abs/2312.12965">Ceresa cycles of bielliptic Picard curves</A>, with J. Laga, <i>J. Reine Angew. Math</i>. <BR>
 <li> <A HREF="https://arxiv.org/abs/2308.15193">Rational torsion points on abelian surfaces with quaternionic multiplication</A>, with J. Laga, C. Schembri, and J. Voight, <i>Forum of Mathematics, Sigma</i>.<BR>
-<li> <A HREF="https://arxiv.org/abs/2308.15297">The geometry and arithmetic of bielliptic Picard curves</A>, with J. Laga, <i>submitted</i>. <BR>
+<li> <A HREF="https://arxiv.org/abs/2308.15297">The geometry and arithmetic of bielliptic Picard curves</A>, with J. Laga, <i>JLMS</i>. <BR>
 <li> <A HREF="https://arxiv.org/abs/2305.15874">Normal distribution of bad reduction</A>, with R. Lemke Oliver and D. Loughran, <i>Ramanujan Journal</i>. <BR>
 <li> <A HREF="https://arxiv.org/abs/2209.08088">Arbitrarily large <i>p</i>-torsion in Tate-Shafarevich groups</A>, with E.V. Flynn and an appendix by T.A. Fisher, <i>J. Inst. Math. Jussieu</i>.<BR>
 <li> <A HREF="https://arxiv.org/abs/2210.10730">Integers expressible as the sum of two rational cubes</A>, with L. Alpoge and M. Bhargava and an appendix by A. Burungale and C. Skinner, <i>submitted</i>.  (<A HREF="https://www.quantamagazine.org/mathematical-trio-advances-centuries-old-number-theory-problem-20221129/">popular article</A>) <BR>
