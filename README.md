@@ -31,7 +31,7 @@ My research interests are in number theory, especially arithmetic geometry, spec
  Teaching <BR>
 </H2>
 
-In Spring 2026, I'm teaching MATH 8012: Abstract Algebra II (Graduate)
+In Fall 2026, I'm teaching MATH 9100: Graduate Topics in Algebra (Elliptic Curves) 
 
 <H2>
 Papers <BR>
