@@ -36,6 +36,7 @@ In Fall 2026, I'm teaching MATH 9100: Graduate Topics in Algebra (Elliptic Curve
 <H2>
 Papers <BR>
 </H2>
+<li><A HREF="https://arxiv.org/abs/2608.28543">Rational torsion on simple genus two Jacobians</A>, with J. Balakrishnan, F. Najman, and A. Sutherland, <i>submitted</i>. <BR>
 <li><A HREF="https://arxiv.org/abs/2602.20964">Rational points on modular curves: parameterization and geometric explanations</A>, with M. Derickx, S. Hashimoto, and F. Najman, <i>submitted</i>. <BR>
 <li><A HREF="https://arxiv.org/abs/2506.13749">Hecke reciprocity and class groups</A>, with A. Siad, preprint. <BR>
 <li> <A HREF="https://arxiv.org/abs/2501.18774">Rank stability in quadratic extensions and Hilbert's tenth problem for the ring of integers of a number field</A>, with L. Alpoge, M. Bhargava, and W. Ho, <i>Inventiones mathematicae</i>. <BR>
