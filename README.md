@@ -36,6 +36,7 @@ In Fall 2026, I'm teaching MATH 9100: Graduate Topics in Algebra (Elliptic Curve
 <H2>
 Papers <BR>
 </H2>
+<li><A HREF="https://arxiv.org/abs/2609.00516">Exceptional points on Atkin-Lehner quotients</A>, with E. Assaf and S. Hashimoto, <i>submitted</i>. <BR>
 <li><A HREF="https://arxiv.org/abs/2608.28543">Rational torsion on simple genus two Jacobians</A>, with J. Balakrishnan, F. Najman, and A. Sutherland, <i>submitted</i>. <BR>
 <li><A HREF="https://arxiv.org/abs/2602.20964">Rational points on modular curves: parameterization and geometric explanations</A>, with M. Derickx, S. Hashimoto, and F. Najman, <i>submitted</i>. <BR>
 <li><A HREF="https://arxiv.org/abs/2506.13749">Hecke reciprocity and class groups</A>, with A. Siad, preprint. <BR>
